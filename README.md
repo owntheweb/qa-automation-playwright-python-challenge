@@ -3,7 +3,7 @@
 ## Coding Challenge Requirements
 
 -   Use Playwright for the project.
--   Use TypeScript for the project.
+-   Use Python for the project.
 -   Write tests for https://www.saucedemo.com
 -   Work out a way to make logins fluid/reusable when testing features on and/or after the login page.
 -   Lead the path on what should be tested and how it should be tested.
