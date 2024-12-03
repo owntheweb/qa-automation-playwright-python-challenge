@@ -1,0 +1,10 @@
+.python-version
+test-users.json
+ctrf-report.json
+.pytest_cache
+__pycache__
+.vscode
+.env
+*.html
+*.zip
+*.ps1

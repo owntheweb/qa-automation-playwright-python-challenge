@@ -1,0 +1,8 @@
+playwright
+pytest
+pytest-playwright
+python-dotenv
+Faker
+pytest-asyncio
+ruff
+pytest-html
